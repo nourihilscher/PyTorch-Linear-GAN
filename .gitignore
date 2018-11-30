@@ -1,0 +1,5 @@
+/mnist_data
+/generated_images
+.ipynb_checkpoints 
+__pycache__
+trained_gan.tar
